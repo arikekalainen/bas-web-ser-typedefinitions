@@ -1,0 +1,22 @@
+{
+  "name": "type-definitions",
+  "version": "0.0.1",
+  "description": "Typedefinition files for Basic Web Service : client and server",
+  "moduleType": [
+    "es5"
+  ],
+  "authors": [
+    "Ari Kekalainen <ari.kekalainen@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
