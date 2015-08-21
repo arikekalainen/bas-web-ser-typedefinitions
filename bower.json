@@ -9,9 +9,14 @@
     "Ari Kekalainen <ari.kekalainen@gmail.com>"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arikekalainen/bas-web-ser-typedefinitions.git"
+  },
   "dependencies": {
 
   },
+  "main": "",
   "ignore": [
     "**/.*",
     "node_modules",
